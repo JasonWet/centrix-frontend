@@ -13,12 +13,20 @@ const links = [
         text: "Home"
     },
     {
-        link: "/faq",
-        text: "FAQ"
+        link: "https://discord.gg/centrix",
+        text: "Discord"
     },
     {
-        link: "/contact",
-        text: "Contact"
+        link: "https://shop.centrixroleplay.net/",
+        text: "Donate"
+    },
+    {
+        link: "/applications",
+        text: "Applications"
+    },
+    {
+        link: "https://docs.centrixroleplay.net/",
+        text: "Documents"
     }
 ]
 
